@@ -1,9 +1,14 @@
-<h1>Hi, I'm Yenny! <br/></h1>
-💫 About Me:
-🔭 I’m currently studying a Bachelor's Degree in Software Engineering<br> 🤩I’m looking for an internship and full-time employment in 2026<br>⚡ Fun fact ：If I’m not coding, you’ll probably find me in the pool, on the volleyball court, or playing guitar.
+# Hi, I'm Yenny! 
+🔭 I’m currently studying a Bachelor's Degree in Software Engineering<br> 🤩 I’m looking for an internship and full-time employment in 2026<br>⚡ Fun fact ：If I’m not coding, you’ll probably find me in the pool, on the volleyball court, or playing guitar.
 
+# 👨‍💻 Software Development Projects:
+  - [HAN-KEA Furniture Website](https://github.com/naiyen1002/FurnitureShopWebsite)
+  - [AI Companion Plant App](https://github.com/naiyen1002/AICompanionPlantApp)
+  - [Job Management System for Vehicle Service App ](https://github.com/naiyen1002/JobManagementApp)
+  - [Anime Recommender System](https://github.com/naiyen1002/AnimeRecommenderSystem)
+  - [GradCero – Graduation Announcement System](https://github.com/naiyen1002/gradAnnoucementSys)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kok-nai-yen/) 
 
 # 💻 Tech Stack:
