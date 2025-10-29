@@ -1,5 +1,5 @@
 <h1>Hi, I'm Yenny! <br/></h1>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently studying a Bachelor's Degree in Software Engineering<br> 🤩I’m looking for an internship and full-time employment in 2026<br>⚡ Fun fact ：If I’m not coding, you’ll probably find me in the pool, on the volleyball court, or playing guitar.
 
 
